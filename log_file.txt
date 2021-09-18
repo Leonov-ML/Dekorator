@@ -1,0 +1,140 @@
+date: 2021-09-18
+time: 12:40:20.815193
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578676/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:21.280849
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/company/selectel/blog/578230/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:21.883026
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/company/timeweb/blog/578624/'), {})
+result: ['2021-09-18, 10:05', 'Берта Бенц и старт эры автомобилей', 'https://habr.com/ru/company/timeweb/blog/578624/']
+--------------------
+
+date: 2021-09-18
+time: 12:40:22.390108
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578666/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:22.745516
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/company/alfastrah/blog/578632/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:23.247786
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578660/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:23.669431
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578658/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:24.030245
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/520604/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:24.486424
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578654/'), {})
+result: ['2021-09-18, 01:29', 'Apache Spark: оптимизация производительности на реальных примерах', 'https://habr.com/ru/post/578654/']
+--------------------
+
+date: 2021-09-18
+time: 12:40:25.009488
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578436/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:25.377348
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578644/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:25.771141
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578642/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:26.325311
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578628/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:26.707401
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/company/gms/blog/578610/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:27.393726
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/company/ods/blog/578598/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:27.776545
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578606/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:28.146708
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578604/'), {})
+result: ['2021-09-17, 17:26', 'Бильярд, Defold и рок-н-ролл', 'https://habr.com/ru/post/578604/']
+--------------------
+
+date: 2021-09-18
+time: 12:40:28.515480
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/company/jugru/blog/576750/'), {})
+result: ['2021-09-17, 17:21', 'Обзор программы Heisenbug 2021 Moscow: инструменты, воркшопы, экзоскелеты', 'https://habr.com/ru/company/jugru/blog/576750/']
+--------------------
+
+date: 2021-09-18
+time: 12:40:28.945480
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578580/'), {})
+result: None
+--------------------
+
+date: 2021-09-18
+time: 12:40:29.265289
+name: find_keywords_in_link
+args: ((['дизайн', 'фото', 'web', 'python', 'sql'], 'https://habr.com/ru/post/578594/'), {})
+result: None
+--------------------
+
